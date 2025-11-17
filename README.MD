@@ -127,4 +127,4 @@ pip install -r requirements.txt
 
 ***
 
-> Note: This implementation demonstrates fundamental deep learning > concepts and serves as a solid foundation for more complex computer > vision tasks. The modular design allows easy adaptation to similar > classification problems.
+> Note: This implementation demonstrates fundamental deep learning concepts and serves as a solid foundation for more complex computer vision tasks. The modular design allows easy adaptation to similar classification problems.
