@@ -42,7 +42,7 @@ Linear(3136→128) + ReLU + Dropout(0.5)
     ↓
 Linear(128→10)  # 10 output classes (digits 0-9)
 ```
-
+![LeNet](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpabloinsente.github.io%2Fthe-convolutional-network&psig=AOvVaw07LbHlHlLq3tM7LFSc3UZf&ust=1764006126593000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLDVu5PpiJEDFQAAAAAdAAAAABAj)
 ### Key Components
 - **Input**: 28×28 grayscale images
 
@@ -126,5 +126,6 @@ pip install -r requirements.txt
 ```
 
 ***
+
 
 > Note: This implementation demonstrates fundamental deep learning concepts and serves as a solid foundation for more complex computer vision tasks. The modular design allows easy adaptation to similar classification problems.
