@@ -8,6 +8,8 @@ This project implements a complete deep learning pipeline for handwritten digit 
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-red)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+[Explanatory Video](https://www.youtube.com/watch?v=dE26gw90-gE)
+
 
 ### Key Features
 
@@ -129,4 +131,5 @@ pip install -r requirements.txt
 
 
 > Note: This implementation demonstrates fundamental deep learning concepts and serves as a solid foundation for more complex computer vision tasks. The modular design allows easy adaptation to similar classification problems.
+
 
